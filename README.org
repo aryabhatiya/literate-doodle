@@ -95,5 +95,5 @@ react-navtive run-ios
 npm install -g re-natal
 re-natal init FutureApp2
 cd furee-app2
-react-native run-ios
+react-native run-android
 #+END_SRC
