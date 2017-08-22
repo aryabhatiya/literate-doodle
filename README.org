@@ -79,6 +79,8 @@ react-navtive run-ios
 #+END_SRC
 
 *** React Native Clojuescript
+[[https://www.youtube.com/watch?v=ELM_eKZXl3M][Using Clojurescript to launch iOS/Android apps to 1M users - Emin Hasanov]]
+
 #+BEGIN_SRC shell
 npm install -g re-natal
 re-natal init FutureApp2
