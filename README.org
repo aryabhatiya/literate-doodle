@@ -85,7 +85,7 @@ for arch linux usefull video [[https://www.youtube.com/watch?v=M70Xebbj4Qk][Arch
 npm install -g react-native-cli
 react-native init FutureApp
 cd Futureapp
-react-navtive run-ios
+react-navtive run-android
 #+END_SRC
 
 *** React Native Clojuescript
