@@ -1,5 +1,15 @@
 * Iphone Installation
+** Run Osx On Vmware On Ubuntu: Install Mac Os X Sierra 10.12 on Vmware On Ubuntu
+*** Edit the VMX file and add
+#+BEGIN_SRC
+smc.version= "0"
+#+END_SRC
 
+#+BEGIN_SRC
+sudo pacman  -S unrar
+#+END_SRC
+*** for virtual box
+https://www.youtube.com/watch?v=pVc6rxk3OUM
 #+BEGIN_SRC shell
 npm install -g react-native-cli
 react-native init FutureApp
