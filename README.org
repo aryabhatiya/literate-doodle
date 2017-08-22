@@ -70,7 +70,7 @@ android-studio
 #+END_SRC
 *** React Native
 for arch linux usefull video [[https://www.youtube.com/watch?v=M70Xebbj4Qk][Archlinux ReactNative]]
-
+[[https://facebook.github.io/react-native/releases/0.23/docs/android-setup.html][Android Setup in Facebook page]]
 #+BEGIN_SRC shell
 npm install -g react-native-cli
 react-native init FutureApp
