@@ -1,6 +1,6 @@
 * Iphone Installation
 
-#+BEGIN_SRC js
+#+BEGIN_SRC shell
 npm install -g react-native-cli
 react-native init FutureApp
 cd Futureapp
@@ -67,4 +67,21 @@ export ANDROID_HOME=/opt/android-sdk
 
 #+BEGIN_SRC bash
 android-studio
+#+END_SRC
+*** React Native
+for arch linux usefull video [[https://www.youtube.com/watch?v=M70Xebbj4Qk][Archlinux ReactNative]]
+
+#+BEGIN_SRC shell
+npm install -g react-native-cli
+react-native init FutureApp
+cd Futureapp
+react-navtive run-ios
+#+END_SRC
+
+*** React Native Clojuescript
+#+BEGIN_SRC shell
+npm install -g re-natal
+re-natal init FutureApp2
+cd furee-app2
+react-native run-ios
 #+END_SRC
